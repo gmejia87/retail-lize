@@ -11,8 +11,7 @@ router.get("/", (req, res) => {
       {
         model: Product,
         attributes: ["product_name", "price", "stock", "category_id"],
-        include: Tag,
-        attributes: "tag_name",
+        through: ProductTag,
       },
     ],
   })
