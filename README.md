@@ -34,6 +34,7 @@ Continue by running in the command line the following:
 
 ## Demo video
 
+https://user-images.githubusercontent.com/108241017/199049309-1c326416-75a8-443b-9159-ed33e8d0f00a.mp4
 
 ### Questions
 
